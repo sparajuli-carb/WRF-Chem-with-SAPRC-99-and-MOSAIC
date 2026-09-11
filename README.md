@@ -1,0 +1,1 @@
+This repository contains WRF-Chem namelist configuration files and modified source codes corresponding to the paper titled "Comprehensive assessment of WRF-Chem in simulating ozone and PM₂.₅ in California using ground-based and RECAP-CA aircraft observations"
